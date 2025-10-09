@@ -27,7 +27,7 @@ Build Prerequisites
 
 > What hardware, software, and networking infrastructure that should be in
 > place before you attempt to install the service application?
-> Prerequisites include basic hardware setup, or virual machine type, and the installation of
+> Prerequisites include basic hardware setup, or virtual machine type, and the installation of
 > commonly-used supporting software packages, such as Apache.
 
 ### Hardware Requirements {#hardware_requirements}
